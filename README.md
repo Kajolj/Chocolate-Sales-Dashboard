@@ -1,4 +1,4 @@
-Power BI Sales Dashboard – Beginner Projects
+# Power BI Sales Dashboard – Beginner Projects
 Self-Learning Project | Guided by Chandoo.org YouTube Channel
 Tools Used: Power BI, Excel (sample datasets from Chandoo)
 # Chocolate-Sales-Dashboard

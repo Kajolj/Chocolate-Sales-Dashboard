@@ -1,3 +1,6 @@
+Power BI Sales Dashboard – Beginner Projects
+Self-Learning Project | Guided by Chandoo.org YouTube Channel
+Tools Used: Power BI, Excel (sample datasets from Chandoo)
 # Chocolate-Sales-Dashboard
 This is a basic **Power BI dashboard project** designed to analyze chocolate sales data across regions and time. It was created as part of my early learning journey with Power BI to practice building visual reports, exploring KPIs, and telling stories with data. 
 
